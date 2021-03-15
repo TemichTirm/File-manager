@@ -1,0 +1,7 @@
+C:\Users\Temich\source\repos\File manager\Project\File manager\File manager\bin\Debug\File manager.exe.config
+C:\Users\Temich\source\repos\File manager\Project\File manager\File manager\bin\Debug\File manager.exe
+C:\Users\Temich\source\repos\File manager\Project\File manager\File manager\bin\Debug\File manager.pdb
+C:\Users\Temich\source\repos\File manager\Project\File manager\File manager\obj\Debug\File manager.csprojAssemblyReference.cache
+C:\Users\Temich\source\repos\File manager\Project\File manager\File manager\obj\Debug\File manager.csproj.CoreCompileInputs.cache
+C:\Users\Temich\source\repos\File manager\Project\File manager\File manager\obj\Debug\File manager.exe
+C:\Users\Temich\source\repos\File manager\Project\File manager\File manager\obj\Debug\File manager.pdb
